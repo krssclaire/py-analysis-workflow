@@ -8,10 +8,11 @@ The workflows are designed to be easy to use, reproducible and accessible to stu
 The goal of this project is not only to automate analyses, but also to help users understand the statistical methods behind them through guided explanations, visualizations and interpretation notes.
 
 ## Frameworks available
-Framework | Description                                          | Status
-----------|----------------------------------------------------- |-------
+Framework | Description                                           | Status
+----------|------------------------------------------------------ |-------
 OLS       | Ordinary Least Squares for Multiple Linear Regression | 🚧 WIP
-EDA       | Exploratory Data Analysis                            | 📋Planned
+EDA       | Exploratory Data Analysis                             | 🚧 WIP
+LOG-REG   | Logistic Regression                                   | 📋Planned
 
 ## How to use
 ### Prerequisites
